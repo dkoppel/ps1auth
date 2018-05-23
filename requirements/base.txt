@@ -14,7 +14,7 @@ kombu==4.2.0
 billiard==3.5.0.3
 amqp==2.2.2
 anyjson==0.3.3
-django-celery==3.1.16
+django-celery==3.2.2
 django-reversion==1.8.7
 django-debug-toolbar==1.2.2
 django-bootstrap3==5.0.3
