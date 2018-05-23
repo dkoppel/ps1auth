@@ -10,7 +10,7 @@ html2text==2018.1.9
 beautifulsoup4==4.6.0
 Pillow==5.1.0
 celery==4.1.1
-kombu==3.0.24
+kombu==4.2.0
 billiard==3.3.0.19
 amqp==1.4.6
 anyjson==0.3.3
