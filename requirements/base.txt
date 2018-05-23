@@ -1,7 +1,7 @@
 Django==2.0.5
 ldap3==2.5
 pytz==2018.4
-psycopg2==2.5.1
+psycopg2==2.7.4
 #django-money==0.4.1
 #git+https://github.com/duointeractive/paypal-python.git
 dateutils==0.6.6
